@@ -1,0 +1,142 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+.container{
+    background:#E5E5E5;
+    width: 100vw;
+    height: 1080px;
+    padding-top: 100px;
+  
+}
+.content{
+    margin: auto;
+    width: 1440px;
+    height: 900px;
+    background-color: #F7FAFC;
+    
+}
+.content__header{
+   text-align: center;
+   color: #2D3748;
+}
+.header__titulo{
+     padding-top: 82px;
+     color: #2D3748;
+}
+.header__text{
+    padding-top: 5px;
+    font-weight: 700;
+    color: #2D3748;
+}
+.main{
+  margin-left: 169px;
+}
+
+.card__main-left{
+    color: #2D3748;
+    float: left;
+    width: 350px;
+    margin-right: 26px;
+    height: 554px;
+    margin-top:133px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(152, 149, 149, 0.25);
+}
+.card__main-center{
+    float: left;
+    width: 350px;
+    height: 554px;
+    margin-top: 68px;
+    margin-right: 26px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(152, 149, 149, 0.25);
+}
+.card__main-right{
+    float: left;
+    width: 350px;
+    height: 554px;
+    margin-top: 133px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 4px 4px rgba(152, 149, 149, 0.25);
+}
+.card__footer{
+    Width:350px;
+    Height:70px;
+    margin-top:48px;
+    background-color: #EDF2F7;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color: #2D3748 ;
+    padding-top:25px ;
+    text-align: center;
+
+}
+.card__footer-center{
+    Width:350px;
+    Height:70px;
+    margin-top:48px;
+    background-color:  #EA0774;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    color:#F7FAFC ;
+    padding-top:25px ;
+    text-align: center;
+
+}
+.card__titulo{
+   float: left;
+   margin-left:25px;
+   padding-top:28px;
+   color: #2D3748;
+}
+.card__vector{
+    float: right;
+    margin-right:32px;
+    margin-top: 36px;
+}
+.card__valor{
+    margin-top:99px ;
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50px;
+    line-height: 59px;
+    color: #000000;
+}
+.card__text{
+    margin-top:36px ;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    text-align: justify;
+    padding-left: 24px;
+    padding-right: 24px;
+    color: #080808;
+}
+.card__list{
+    text-align: center;
+    padding-right: 34px;
+    color: #000000;
+    
+}
+.card__list-text{
+    padding-top: 34px;
+    font-weight: 700;
+    font-size: 16px;
+   
+}
+.elipse-list{
+    padding-top: 34px;
+    float: left;
+    margin-left: 59px;
+    font-style: normal;
+    
+}
