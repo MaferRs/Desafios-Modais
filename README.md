@@ -5,7 +5,6 @@
 ##  ⚜️ O projeto.
 <p>
 Desafio Curso Desenvolvimento Front-End da Digital House em parceria com a Ifood e a Potência Tech. </p>
-<p>Neste projeto foi desenvolvido uma aplicação web front-end responsiva  utilizando Grid-Layout. </p>
 
 ##  ⚜️Tecnologias Usadas.
 <p>Nele foi utilizado:
